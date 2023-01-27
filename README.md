@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simranmakandar
 - 👀 I’m interested in learning Data Science concepts and Web Development
-- 🌱 I’m currently learning Web App Development and getting into understanding Agile SCRUM methodology
+- 🌱 I’m currently learning to develop web applications and CI/CD pipelines
 - 💞️ I’m looking to collaborate on Data Science challenges and Leetcode programming :)
 - 📫 How to reach me : makandar@usc.edu
 
